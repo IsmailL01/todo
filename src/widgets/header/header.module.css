@@ -1,0 +1,17 @@
+.header {
+	width: 100vw;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.topPart {
+	display: flex;
+	gap: 40px;
+	width: 100vw;
+	
+	justify-content: space-between;
+	align-items: center;
+}
